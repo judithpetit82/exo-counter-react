@@ -1,6 +1,6 @@
 import Counter from "./Counter"; 
 
-function Counter() {
+function App() {
     return (
         <div>
             <Counter />
@@ -8,4 +8,4 @@ function Counter() {
     );
 }
 
-export default Counter;
+export default App;
